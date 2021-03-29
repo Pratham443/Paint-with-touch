@@ -1,0 +1,27 @@
+body {
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+    cursor: pointer;
+    text-align: center;
+}
+
+h1 {
+    color: red;
+    font-size: 40px;
+}
+
+#canvas {
+    border-width: 2px;
+    border-style: ridge;
+    background-color: white;
+}
+
+button {
+    background-color: #4caf50;
+    color: white;
+}
+
+input {
+    margin: 10px;
+}
